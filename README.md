@@ -1,3 +1,4 @@
 # heartDiseasePrediction
 
-![m](https://imgur.com/a/AOnOlXP?raw=true)
+
+![Comapare models](https://imgur.com/a/AOnOlXP.png)

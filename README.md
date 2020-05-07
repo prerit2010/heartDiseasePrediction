@@ -1,3 +1,3 @@
 # heartDiseasePrediction
 
-![m](https://imgur.com/a/AOnOlXP)
+![m](https://imgur.com/a/AOnOlXP?raw=true)
